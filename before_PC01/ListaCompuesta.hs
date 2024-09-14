@@ -1,0 +1,1 @@
+generarLista lista = [x |(x:xs) <-lista, x > sum xs]
