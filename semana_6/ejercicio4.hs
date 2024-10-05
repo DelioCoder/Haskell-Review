@@ -1,0 +1,1 @@
+tomarNumero n xs = head (dropWhile (<=n) xs)

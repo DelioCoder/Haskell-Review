@@ -1,0 +1,1 @@
+duplicarYEliminarNumerosN lista n = filter ( <=n ) (map (*2) lista)

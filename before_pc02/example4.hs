@@ -1,0 +1,1 @@
+generarListaRepetida n x = if n <= 0 then [] else x : generarListaRepetida (n - 1) x

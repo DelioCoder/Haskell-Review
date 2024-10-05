@@ -1,0 +1,1 @@
+todosPositivos lista = all (>0) lista

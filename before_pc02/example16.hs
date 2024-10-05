@@ -1,0 +1,1 @@
+listaDuplas lista1 lista2 = [(x,y)| (x,y)<-zip lista1 lista2]

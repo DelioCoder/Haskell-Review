@@ -1,0 +1,1 @@
+multiplicarCompuesta lista n = [if length sublista < n then map (n*) sublista else sublista | sublista<-lista]
